@@ -1,0 +1,208 @@
+.background{
+width:1920px;
+height:1294px;
+background-repeat: no-repeat; 
+background-position: center;
+background-size: cover;
+background-image:
+url(img/bg.png);
+}
+
+.berry{
+width:195px;
+height:201px;
+background-repeat: no-repeat; 
+background-position: center;
+background-size: cover;
+background-image:
+url(img/berry.png);
+}
+
+.leaf{
+width:106px;
+height:111px;
+background-repeat: no-repeat; 
+background-position: center;
+background-size: cover;
+background-image:
+url(img/leaf.png);
+}
+
+p{
+	color: white;
+}
+.text{
+display:flex;
+flex-wrap: wrap;
+justify-content: space-between;
+}
+
+.SweetChest{
+
+margin-top: 31px;	
+margin-left: 179px;
+width: 200px;
+color: white;
+}
+
+.location{
+
+color: white;	
+margin-top: 31px;
+margin-left: 700px;	
+width: 200px;
+}
+
+.time{
+
+color: white;	
+margin-top: 31px;	
+margin-right: 400px;
+width: 200px;
+}
+
+.header{
+	font-family: sans-serif;
+
+color: white;	
+width: 647px;
+
+margin-top:200px ;
+margin-left: 400px;
+
+}
+.b{
+	font-size:50px;
+}
+.a{
+color: white;
+
+font-size: 36px;
+margin-top: 10px;
+
+display:flex;
+flex-wrap: wrap;
+}
+.buton-text{
+	display: flex;
+
+}
+.text-b{
+	font-size: 20px;
+	font-family: sans-serif;
+	width: 210px;
+	height: 64px;
+	display: flex;
+	align-items: center;
+	padding: 10px;
+}
+.buton{
+border: yellow solid 1px;	
+width: 277px;
+height: 88px;
+background-color: yellow;
+font-size: 25px;
+color: black;
+border-radius: 20px;
+display: flex;
+align-items: center;
+justify-content: center;
+font-family: sans-serif;
+}
+
+
+
+
+.ice-cream-warp{
+width: 1620px;
+height:1926px;
+display: flex;
+flex-wrap: wrap;
+justify-content: center;
+
+}
+
+
+.ice-crem1{
+width:380px;
+height:245px;	
+background-repeat: no-repeat; 
+background-position: center;
+background-size: cover;
+}
+
+.ice-crem2{
+width:380px;
+height:245px;	
+background-repeat: no-repeat; 
+background-position: center;
+}
+
+.ice-crem3{
+width:380px;
+height:245px;	
+background-repeat: no-repeat; 
+background-position: center;
+
+}
+
+
+
+.ice-crem4{
+width:380px;
+height:245px;	
+background-repeat: no-repeat; 
+background-position: center;
+background-size: cover;
+
+}	
+
+
+
+
+.ice-crem5{
+width:380px;
+height:245px;	
+background-repeat: no-repeat; 
+background-position: center;
+background-size: cover;
+
+}	
+
+
+
+p{
+	color: black;
+	font-size: 70px;
+	padding-right: 50px;
+		font-family: sans-serif;
+}
+
+.image-king{
+display: flex;
+flex-wrap: wrap;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
